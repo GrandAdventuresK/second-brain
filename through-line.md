@@ -42,3 +42,7 @@ Don't overwrite. Append a new version below with the date and what pushed it to 
 ### v0 — 2026-05-23
 
 Initial articulation. Set as hypothesis. No revision pressure yet — paths haven't started.
+
+### v0.1 — 2026-05-23
+
+Major path chosen as **leadership and identity**. Contributing disciplines named: AI & emerging tech, systems thinking, education, psychology. The dissertation question (a 3–5 year narrowing of the through-line) is being formed inside [`learning/leadership-and-identity/path.md`](learning/leadership-and-identity/path.md). The through-line itself is unchanged — the dissertation question is a narrowing of it, not a replacement.

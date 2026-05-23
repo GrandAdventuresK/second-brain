@@ -38,13 +38,14 @@ You capture freely in `inbox/`. You read or watch something — that's a `source
 
 ## The learning spine *(if you're using this vault for structured study)*
 
-Three documents at the root anchor a self-designed program of study:
+Four documents at the root anchor a self-designed program of study:
 
 - [`through-line.md`](through-line.md) — the unifying question the whole vault is in service of. Evolves.
-- [`curriculum.md`](curriculum.md) — strategic architecture: phases, modes of work, forcing functions.
+- [`curriculum.md`](curriculum.md) — strategic architecture: major + contributing disciplines, phases, methods, validation.
+- [`validation.md`](validation.md) — the predict-before-act and falsifiable-claim disciplines that make markets and readers actually bite.
 - [`block-ritual.md`](block-ritual.md) — the operational practice. Every learning block runs this loop.
 
-These three sit *above* the folders — they tell you what the folders are *for*.
+These four sit *above* the folders — they tell you what the folders are *for*.
 
 ## Conventions
 
