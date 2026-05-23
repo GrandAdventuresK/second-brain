@@ -74,6 +74,10 @@ In the path's `path.md`, jot one line about where to resume — the question you
 
 Once a month — or whenever `inbox/` and `notes/` feel heavy — run the `tend-topics` ritual. It surfaces orphan notes, stale topic pages, and emerging clusters. Approve the proposals; let the topic layer accrete. Patterns you didn't plan for will start to show. That's the system mirroring you back to yourself.
 
+## This is the *default* block
+
+A block in this shape is a **lecture-block** — input pressed into your own words. There are four other modes (seminar, lab, problem-set, comp paper) that escalate when the work calls for them. See [`curriculum.md`](curriculum.md) for the full set.
+
 ## What this ritual is fixing
 
 - **Scattered capture** → one `inbox/`, drained every block.

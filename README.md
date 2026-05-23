@@ -36,6 +36,16 @@ inbox ─┬─► sources  ─►  notes  ─┐
 
 You capture freely in `inbox/`. You read or watch something — that's a `source`. You write your own thoughts about it — that's a `note` (or, if it's part of a structured study, it goes into a `learning/<topic>/synthesis/`). Periodically, the `tend-topics` skill helps stitch atomic notes into `topics/` pages so connection compounds over time.
 
+## The learning spine *(if you're using this vault for structured study)*
+
+Three documents at the root anchor a self-designed program of study:
+
+- [`through-line.md`](through-line.md) — the unifying question the whole vault is in service of. Evolves.
+- [`curriculum.md`](curriculum.md) — strategic architecture: phases, modes of work, forcing functions.
+- [`block-ritual.md`](block-ritual.md) — the operational practice. Every learning block runs this loop.
+
+These three sit *above* the folders — they tell you what the folders are *for*.
+
 ## Conventions
 
 - **Filenames:** `kebab-case.md` (e.g., `feedback-loops.md`). Easy to link, easy to type, no escaping needed.
