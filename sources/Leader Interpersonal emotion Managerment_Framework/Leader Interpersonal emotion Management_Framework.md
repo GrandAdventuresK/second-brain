@@ -6,8 +6,6 @@ journal homepage: [www.elsevier.com/locate/leaqua](https://www.elsevier.com/loca
 
 ![](_page_0_Picture_5.jpeg)
 
-![](_page_0_Picture_6.jpeg)
-
 # Leader interpersonal emotion Management: An Input-Process-Output framework and research agenda
 
 Bo Shao
