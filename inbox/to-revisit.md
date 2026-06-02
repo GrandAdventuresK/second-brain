@@ -11,3 +11,4 @@ When something here grows up:
 ## Items
 
 - **2026-05-24** — [Gotham Gal — Books of the Moment](https://gothamgal.com/books-of-the-moment) — Joanne Wilson's running book list; potential audiobook / reading-queue mine.
+- **2026-06-02** — [arusto.ai](https://www.arusto.ai/) — context TBD; add a line on why when you come back to it.
